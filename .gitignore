@@ -1,1 +1,6 @@
+# IDEs
+.vscode
+
+# CMake
 _builds
+build
